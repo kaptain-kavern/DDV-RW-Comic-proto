@@ -17,7 +17,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 #sidebar
-default-image: webjeda-logo-big.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
+default-image:  rimworld_icon_by_blagoicons.jpg # If there is no featured image in a post then this image will be showed. Also on all pages this image will be showed. Use a 500x250 image.
 
 #footer
 built-by: KapTaiN_KaVerN
@@ -42,8 +42,9 @@ reddit: https://www.reddit.com/user/daleksdeservevictory
 twitch: https://www.twitch.tv/bachheart
 facebook: 
 quora: 
-twitter: https://www.twitch.tv/bachheart
-github: https://www.twitch.tv/bachheart
+twitter: 
+github: 
+donation: https://streamtip.com/t/bachheart
 
 #facebook like box
 fb-app-id: 

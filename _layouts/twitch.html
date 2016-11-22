@@ -1,0 +1,46 @@
+---
+---
+<!-- Remove the comments to compress html
+---
+layout: compress
+---
+-->
+<!DOCTYPE html>
+<html>
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		<div class="container">
+			<div class="wrapper">
+				<div class="row">
+					<div>
+						<article class="post">
+							<header class="post-header">
+								<span class="text-center"><h1 class="post-title">{{ page.title }}</h1></span>
+							</header>
+							<span class="text-center"><div class="center-block">
+								{{ content }}
+							</div></span>
+						</article>
+					</div>
+				</div>
+			</div>
+		</div>
+		{% include footer.html %}
+		
+		<script async>
+		(function() {
+		var font = document.createElement('link');
+		font.type = 'text/css';
+		font.rel = 'stylesheet';
+		font.href = '//fonts.googleapis.com/css?family=Raleway:400,700';
+		var s = document.getElementsByTagName('link')[0];
+		s.parentNode.insertBefore(font, s);
+		})();
+		</script>
+		
+		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
+		<script src="{{site.baseurl}}/js/bootstrap.min.js"></script>
+		{% if site.analytics %}{% include analytics.html %}{% endif %}
+	</body>
+</html>
