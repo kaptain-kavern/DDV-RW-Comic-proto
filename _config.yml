@@ -10,9 +10,7 @@ title: DaleksDeserveVictory's RW Comics
 email: your-email@domain.com
 description: > # this means to ignore newlines until "baseurl:"
   DaleksDeserveVictory's RW Comics
-  
-  
-  
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
@@ -36,6 +34,10 @@ analytics:
 
 # Comments
 disqus-shortname: 
+
+#
+exclude:
+  - docs
 
 #social
 reddit: "https://www.reddit.com/user/daleksdeservevictory"
