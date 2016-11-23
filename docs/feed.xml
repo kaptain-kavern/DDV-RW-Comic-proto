@@ -4,10 +4,10 @@
     <title>DaleksDeserveVictory's RW Comics</title>
     <description>DaleksDeserveVictory's RW Comics
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Nov 2016 02:59:33 +0100</pubDate>
-    <lastBuildDate>Wed, 23 Nov 2016 02:59:33 +0100</lastBuildDate>
+    <link>https://kaptain-kavern.github.io/DDV-RW-Comic-proto/</link>
+    <atom:link href="https://kaptain-kavern.github.io/DDV-RW-Comic-proto/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 23 Nov 2016 03:40:01 +0100</pubDate>
+    <lastBuildDate>Wed, 23 Nov 2016 03:40:01 +0100</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -30,8 +30,8 @@
 &lt;span class=&quot;nn&quot;&gt;---&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
 </description>
         <pubDate>Sun, 12 Jun 2016 00:00:00 +0200</pubDate>
-        <link>/usage/</link>
-        <guid isPermaLink="true">/usage/</guid>
+        <link>https://kaptain-kavern.github.io/DDV-RW-Comic-proto/usage/</link>
+        <guid isPermaLink="true">https://kaptain-kavern.github.io/DDV-RW-Comic-proto/usage/</guid>
         
         
         <category>two</category>
@@ -326,8 +326,8 @@
 &lt;p&gt;Change class &lt;code class=&quot;highlighter-rouge&quot;&gt;panel-primary&lt;/code&gt; to &lt;code class=&quot;highlighter-rouge&quot;&gt;panel-warning&lt;/code&gt;, &lt;code class=&quot;highlighter-rouge&quot;&gt;panel-success&lt;/code&gt; and so on to get other panels.&lt;/p&gt;
 </description>
         <pubDate>Fri, 10 Jun 2016 00:00:00 +0200</pubDate>
-        <link>/elements/</link>
-        <guid isPermaLink="true">/elements/</guid>
+        <link>https://kaptain-kavern.github.io/DDV-RW-Comic-proto/elements/</link>
+        <guid isPermaLink="true">https://kaptain-kavern.github.io/DDV-RW-Comic-proto/elements/</guid>
         
         
         <category>jekyll</category>
@@ -345,8 +345,8 @@
 &lt;p&gt;Morbi vestibulum sem eget maximus feugiat. Curabitur vehicula magna in molestie dignissim. Nam gravida leo non purus cursus, id accumsan justo tincidunt. Donec accumsan purus mauris, vitae luctus magna faucibus vitae. Nullam tincidunt urna scelerisque, hendrerit mi ac, sagittis ligula. Curabitur convallis eros eu fringilla maximus. Donec lobortis scelerisque enim eu molestie. Duis ac mi quis risus auctor vulputate.&lt;/p&gt;
 </description>
         <pubDate>Thu, 09 Jun 2016 00:00:00 +0200</pubDate>
-        <link>/no-image/</link>
-        <guid isPermaLink="true">/no-image/</guid>
+        <link>https://kaptain-kavern.github.io/DDV-RW-Comic-proto/no-image/</link>
+        <guid isPermaLink="true">https://kaptain-kavern.github.io/DDV-RW-Comic-proto/no-image/</guid>
         
         
         <category>jekyll</category>
