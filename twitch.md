@@ -5,7 +5,7 @@ permalink: /twitch/
 ---
 <div class="row">
     <div class="col-md-8">
-        <script src= "http://player.twitch.tv/js/embed/v1.js"></script>
+        <script src= "https://player.twitch.tv/js/embed/v1.js"></script>
         <div id="{PLAYER_DIV_ID}"></div>
         <script type="text/javascript">
             var options = {
@@ -22,7 +22,7 @@ permalink: /twitch/
         <iframe frameborder="0"
             scrolling="no"
             id="chat_embed"
-            src="http://www.twitch.tv/bachheart/chat"
+            src="https://www.twitch.tv/bachheart/chat"
             height="432"
             width="300">
         </iframe>
